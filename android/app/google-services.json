@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1098719307293",
+    "project_id": "asmcro102-6714b",
+    "storage_bucket": "asmcro102-6714b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098719307293:android:bcc75584ec0659395248f4",
+        "android_client_info": {
+          "package_name": "com.anonymous.ASM_CRO102"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfarEhUUv9VWsT5Rfc9fZPLCBLaakRUEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
